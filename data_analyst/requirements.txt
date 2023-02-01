@@ -1,0 +1,7 @@
+-pandas 1.5.3
+-numpy 1.23.5
+-matplotlib 3.6.3
+-langdetect 1.0.9
+-Pillow 9.4.0
+-wordcloud 1.8.2.2
+-Python 3.9.3
